@@ -1,0 +1,390 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- ViewVC :: http://www.viewvc.org/ -->
+<head>
+<title>[Apache-SVN] Index of /lucene/pylucene/trunk/samples</title>
+<meta name="generator" content="ViewVC 1.2-dev" />
+<link rel="shortcut icon" href="/viewvc/*docroot*/images/favicon.ico" />
+<link rel="stylesheet" href="/viewvc/*docroot*/styles.css" type="text/css" />
+
+</head>
+<body>
+<div class="vc_navheader">
+<table><tr>
+<td><strong><a href="/viewvc?view=roots"><span class="pathdiv">/</span></a><a href="/viewvc/">[Apache-SVN]</a><span class="pathdiv">/</span><a href="/viewvc/lucene/">lucene</a><span class="pathdiv">/</span><a href="/viewvc/lucene/pylucene/">pylucene</a><span class="pathdiv">/</span><a href="/viewvc/lucene/pylucene/trunk/">trunk</a><span class="pathdiv">/</span>samples</strong></td>
+<td style="text-align: right;"></td>
+</tr></table>
+</div>
+<div style="float: right; padding: 5px;"><a href="http://www.viewvc.org/" title="ViewVC Home"><img src="/viewvc/*docroot*/images/viewvc-logo.png" alt="ViewVC logotype" width="240" height="70" /></a></div>
+<h1>Index of /lucene/pylucene/trunk/samples</h1>
+
+
+<table class="auto">
+<tr><td>Files shown:</td><td><strong>8</strong>
+
+
+</td></tr>
+
+<tr>
+<td>Directory revision:</td>
+<td><a href="/viewvc?view=revision&amp;revision=1599384" title="Revision 1599384">1599384</a> (of <a href="/viewvc?view=revision" title="Revision 1603432">1603432</a>)</td>
+</tr>
+
+<tr>
+<td>Sticky Revision:</td>
+<td><form method="get" action="/viewvc" style="display: inline">
+<div style="display: inline">
+<input type="hidden" name="orig_pathtype" value="DIR"/><input type="hidden" name="orig_view" value="dir"/><input type="hidden" name="orig_path" value="lucene/pylucene/trunk/samples"/><input type="hidden" name="view" value="redirect_pathrev"/>
+
+<input type="text" name="pathrev" value="" size="6"/>
+
+<input type="submit" value="Set" />
+</div>
+</form>
+
+</td>
+</tr>
+
+
+</table>
+
+
+<p><a name="dirlist"></a></p>
+<hr />
+
+<table cellspacing="1" cellpadding="2">
+<thead>
+<tr>
+<th class="vc_header_sort" colspan="2">
+<a href="/viewvc/lucene/pylucene/trunk/samples/?sortdir=down#dirlist">File</a>
+
+<img class="vc_sortarrow" alt=""
+width="13" height="13"
+src="/viewvc/*docroot*/images/up.png" />
+
+</th>
+<th class="vc_header">
+<a href="/viewvc/lucene/pylucene/trunk/samples/?sortby=rev#dirlist">Rev.</a>
+
+</th>
+<th class="vc_header">
+<a href="/viewvc/lucene/pylucene/trunk/samples/?sortby=date#dirlist">Age</a>
+
+</th>
+<th class="vc_header">
+<a href="/viewvc/lucene/pylucene/trunk/samples/?sortby=author#dirlist">Author</a>
+
+</th>
+
+<th class="vc_header">
+<a href="/viewvc/lucene/pylucene/trunk/samples/?sortby=log#dirlist">Last log entry</a>
+
+</th>
+
+</tr>
+</thead>
+<tbody>
+
+<tr class="vc_row_odd">
+<td colspan="2">
+<a href="/viewvc/lucene/pylucene/trunk/">
+<img src="/viewvc/*docroot*/images/back_small.png" alt="" class="vc_icon"
+/>&nbsp;Parent&nbsp;Directory</a>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr class="vc_row_even">
+<td colspan="2">
+
+<a name="FacetExample.py" href="/viewvc/lucene/pylucene/trunk/samples/FacetExample.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+FacetExample.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/FacetExample.py?revision=1599384&amp;view=markup" title="View file contents"><strong>1599384</strong></a>
+
+</td>
+
+<td>&nbsp;2 weeks</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - FacetSample.py fixed to work with Lucene 4.8 facets API (Thomas Koch)
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_odd">
+<td colspan="2">
+
+<a name="IndexFiles.py" href="/viewvc/lucene/pylucene/trunk/samples/IndexFiles.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+IndexFiles.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/IndexFiles.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_even">
+<td colspan="2">
+
+<a name="PorterStemmerAnalyzer.py" href="/viewvc/lucene/pylucene/trunk/samples/PorterStemmerAnalyzer.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+PorterStemmerAnalyzer.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/PorterStemmerAnalyzer.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_odd">
+<td colspan="2">
+
+<a name="SearchFiles.py" href="/viewvc/lucene/pylucene/trunk/samples/SearchFiles.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+SearchFiles.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/SearchFiles.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_even">
+<td colspan="2">
+
+<a name="TermPositionVector.py" href="/viewvc/lucene/pylucene/trunk/samples/TermPositionVector.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+TermPositionVector.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/TermPositionVector.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_odd">
+<td colspan="2">
+
+<a name="ThreadIndexFiles.py" href="/viewvc/lucene/pylucene/trunk/samples/ThreadIndexFiles.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+ThreadIndexFiles.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/ThreadIndexFiles.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_even">
+<td colspan="2">
+
+<a name="manindex.py" href="/viewvc/lucene/pylucene/trunk/samples/manindex.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+manindex.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/manindex.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+<tr class="vc_row_odd">
+<td colspan="2">
+
+<a name="mansearch.py" href="/viewvc/lucene/pylucene/trunk/samples/mansearch.py?view=log" title="View file revision log">
+
+<img src="/viewvc/*docroot*/images/text.png" alt="" class="vc_icon" />
+mansearch.py</a>
+
+</td>
+
+
+
+
+<td style="white-space: nowrap;">&nbsp;<a href="/viewvc/lucene/pylucene/trunk/samples/mansearch.py?revision=1514992&amp;view=markup" title="View file contents"><strong>1514992</strong></a>
+
+</td>
+
+<td>&nbsp;10 months</td>
+<td>&nbsp;vajda</td>
+
+
+<td>&nbsp; - added vmargs=['-Djava.awt.headless=true'] to all samples' initVM() calls
+</td>
+
+
+
+</tr>
+
+</tbody>
+</table>
+
+
+
+<hr/>
+<div class="vc_properties">
+<h2>Properties</h2>
+<table cellspacing="1" cellpadding="2" class="auto">
+<thead>
+<tr>
+<th class="vc_header_sort">Name</th>
+<th class="vc_header">Value</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="vc_row_even">
+<td><strong>svn:ignore</strong></td>
+
+<td style="white-space: pre;">*.index
+*.Index
+*.Taxonomy
+</td>
+
+</tr>
+
+<tr class="vc_row_odd">
+<td><strong>svn:mergeinfo</strong></td>
+
+<td style="white-space: pre;">/lucene/pylucene/branches/branch_3x/samples:943951-1358562
+/lucene/pylucene/branches/pylucene_3_0/samples:984140
+/lucene/pylucene/branches/pylucene_4_2/samples:1467708-1469997
+/lucene/pylucene/branches/pylucene_4_3/samples:1479735-1497065
+/lucene/pylucene/branches/pylucene_4_5/samples:1529353-1536565</td>
+
+</tr>
+
+</tbody>
+</table>
+</div>
+
+
+
+<hr />
+<table>
+<tr>
+<td><address><a href="mailto:infrastructure at apache.org">infrastructure at apache.org</a></address></td>
+<td style="text-align: right;"><strong><a href="/viewvc/*docroot*/help_dirview.html">ViewVC Help</a></strong></td>
+</tr>
+<tr>
+<td>Powered by <a href="http://viewvc.tigris.org/">ViewVC 1.2-dev</a></td>
+<td style="text-align: right;">&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>
+
+
